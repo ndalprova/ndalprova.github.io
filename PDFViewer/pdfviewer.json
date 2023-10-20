@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-pdfviewer",
-      "url": "http://localhost/SAC/sacpdfviewer/pdfviewer.js",
+      "url": "https://ndalprova.github.io/PDFViewer/pdfviewer.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-pdfviewer-aps",
-      "url": "http://localhost/SAC/sacpdfviewer/aps_pdfviewer.js",
+      "url": "http://ndalprova.github.io/PDFViewer/aps_pdfviewer.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
