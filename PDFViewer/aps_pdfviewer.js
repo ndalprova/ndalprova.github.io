@@ -104,7 +104,7 @@
             return this.getValue("height");
         }
         set height(value) {
-            this.setValue("height", value);
+            this.setValue("height", 600px);
         }
 
         getValue(id) {
