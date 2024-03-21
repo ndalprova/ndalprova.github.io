@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-sap-sac-sample-echarts-gaugegrade",
-      "url": "/main.js",
+      "url": "ndalprova.github.io/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-sap-sac-sample-echarts-gaugegrade-styling",
-      "url": "/styling.js",
+      "url": "ndalprova.github.io/styling.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
